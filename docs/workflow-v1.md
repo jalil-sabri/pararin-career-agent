@@ -12,6 +12,27 @@ Analyze Job Posting
 
 Evaluate a job posting before applying.
 
+## System Boundary
+
+### In Scope
+
+- Manual job posting input
+- Job analysis
+- Match scoring
+- Skill gap detection
+- Resume version suggestion
+- Draft application message generation
+- Save analysis result
+
+### Out of Scope
+
+- Job board search
+- Scraping
+- Auto apply
+- Browser automation
+- Gmail integration
+- Calendar integration
+
 ## Main Flow
 
 1. Enter job posting.
