@@ -1,5 +1,9 @@
 # Workflow V1
 
+## Actor
+
+Candidate
+
 ## Use Case
 
 Analyze Job Posting
