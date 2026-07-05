@@ -1,0 +1,16 @@
+F:\Companies\Github Projects\AI Project\Pararin Career Agent\src\Pararin.CareerAgent.Application\bin\Debug\net8.0\Pararin.CareerAgent.Application.deps.json
+F:\Companies\Github Projects\AI Project\Pararin Career Agent\src\Pararin.CareerAgent.Application\bin\Debug\net8.0\Pararin.CareerAgent.Application.dll
+F:\Companies\Github Projects\AI Project\Pararin Career Agent\src\Pararin.CareerAgent.Application\bin\Debug\net8.0\Pararin.CareerAgent.Application.pdb
+F:\Companies\Github Projects\AI Project\Pararin Career Agent\src\Pararin.CareerAgent.Application\bin\Debug\net8.0\Pararin.CareerAgent.Domain.dll
+F:\Companies\Github Projects\AI Project\Pararin Career Agent\src\Pararin.CareerAgent.Application\bin\Debug\net8.0\Pararin.CareerAgent.Domain.pdb
+F:\Companies\Github Projects\AI Project\Pararin Career Agent\src\Pararin.CareerAgent.Application\obj\Debug\net8.0\Pararin.CareerAgent.Application.csproj.AssemblyReference.cache
+F:\Companies\Github Projects\AI Project\Pararin Career Agent\src\Pararin.CareerAgent.Application\obj\Debug\net8.0\Pararin.CareerAgent.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\Companies\Github Projects\AI Project\Pararin Career Agent\src\Pararin.CareerAgent.Application\obj\Debug\net8.0\Pararin.CareerAgent.Application.AssemblyInfoInputs.cache
+F:\Companies\Github Projects\AI Project\Pararin Career Agent\src\Pararin.CareerAgent.Application\obj\Debug\net8.0\Pararin.CareerAgent.Application.AssemblyInfo.cs
+F:\Companies\Github Projects\AI Project\Pararin Career Agent\src\Pararin.CareerAgent.Application\obj\Debug\net8.0\Pararin.CareerAgent.Application.csproj.CoreCompileInputs.cache
+F:\Companies\Github Projects\AI Project\Pararin Career Agent\src\Pararin.CareerAgent.Application\obj\Debug\net8.0\Pararin.CareerAgent.Application.sourcelink.json
+F:\Companies\Github Projects\AI Project\Pararin Career Agent\src\Pararin.CareerAgent.Application\obj\Debug\net8.0\Pararin..B677ED39.Up2Date
+F:\Companies\Github Projects\AI Project\Pararin Career Agent\src\Pararin.CareerAgent.Application\obj\Debug\net8.0\Pararin.CareerAgent.Application.dll
+F:\Companies\Github Projects\AI Project\Pararin Career Agent\src\Pararin.CareerAgent.Application\obj\Debug\net8.0\refint\Pararin.CareerAgent.Application.dll
+F:\Companies\Github Projects\AI Project\Pararin Career Agent\src\Pararin.CareerAgent.Application\obj\Debug\net8.0\Pararin.CareerAgent.Application.pdb
+F:\Companies\Github Projects\AI Project\Pararin Career Agent\src\Pararin.CareerAgent.Application\obj\Debug\net8.0\ref\Pararin.CareerAgent.Application.dll

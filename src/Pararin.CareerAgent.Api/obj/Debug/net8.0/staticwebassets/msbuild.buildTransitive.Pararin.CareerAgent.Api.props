@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Pararin.CareerAgent.Api.props" />
+</Project>

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Pararin.CareerAgent.Application/1.0.0": {
+        "dependencies": {
+          "Pararin.CareerAgent.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Pararin.CareerAgent.Application.dll": {}
+        }
+      },
+      "Pararin.CareerAgent.Domain/1.0.0": {
+        "runtime": {
+          "Pararin.CareerAgent.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pararin.CareerAgent.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Pararin.CareerAgent.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
