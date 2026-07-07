@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\Pararin.CareerAgent.Api.props" />
-</Project>
